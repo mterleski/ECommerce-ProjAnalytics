@@ -21,8 +21,11 @@ Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA
 - Gerar insights visuais para tomada de decisão
 
 🔧 Ferramentas Utilizadas
+
 Python 3.9+
+
 Pandas – manipulação e agregação de dados
+
 sqlite3 – manipulação dos dados usando SQL
 
 📊 Principais Análises Realizadas
@@ -43,6 +46,6 @@ sqlite3 – manipulação dos dados usando SQL
 
 Este projeto mostra como a análise de dados pode transformar informações brutas em insights valiosos para a estratégia de e-commerce. As técnicas e visualizações aplicadas podem ser adaptadas para ambientes reais de negócio.
 
-<a href="https://lookerstudio.google.com/reporting/511635b5-c74a-447d-ae86-4885ba6975dd"_blank">
+<a href="https://lookerstudio.google.com/reporting/511635b5-c74a-447d-ae86-4885ba6975dd" target = "_blank">
   <img src="https://img.shields.io/badge/Ver%20Dashboard-%23007ec6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
