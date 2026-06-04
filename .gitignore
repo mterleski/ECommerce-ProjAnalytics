@@ -1,0 +1,11 @@
+# Banco de dados local (gerado dinamicamente pelo script)
+projeto.db
+
+# Arquivos temporários e checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ambientes virtuais (caso utilize ou venha a criar no futuro)
+.venv
+
+# Arquivos de configuração do próprio VS Code
+.vscode/
