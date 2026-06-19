@@ -7,8 +7,7 @@
 
 Este projeto aborda o desenvolvimento de um pipeline de integração de dados (*ETL*) para o cenário de e-commerce. O objetivo principal foi consolidar dados transacionais e cadastrais descentralizados utilizando consultas SQL via Python, preparando uma base unificada, consistente e tratada para alimentar um dashboard analítico focado em tomada de decisão.
 
-> 📊 **Acesse o Dashboard Interativo:** [https://datastudio.google.com/reporting/511635b5-c74a-447d-ae86-4885ba6975dd]
-
+> 📊 **Acesse o Dashboard Interativo:** [https://datastudio.google.com/s/iQyMU1fJDMI]
 ---
 
 ## 📌 Contexto do Problema e Dados
